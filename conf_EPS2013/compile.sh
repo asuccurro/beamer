@@ -1,0 +1,4 @@
+pdflatex succurro_heavyQuarksAtlas.tex
+bibtex succurro_heavyQuarksAtlas.aux
+pdflatex succurro_heavyQuarksAtlas.tex
+pdflatex succurro_heavyQuarksAtlas.tex

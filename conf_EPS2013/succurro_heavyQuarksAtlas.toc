@@ -1,0 +1,9 @@
+\beamer@endinputifotherversion {3.10pt}
+\select@language {english}
+\beamer@sectionintoc {1}{Introduction}{2}{0}{1}
+\beamer@sectionintoc {2}{General Strategy}{6}{0}{2}
+\beamer@sectionintoc {3}{$T\mathaccentV {bar}016{T}\to Ht+X$}{20}{0}{3}
+\beamer@sectionintoc {4}{Same-sign dileptons}{23}{0}{4}
+\beamer@sectionintoc {5}{$B\mathaccentV {bar}016{B}(T\mathaccentV {bar}016{T})\to Zb(t)+X$}{27}{0}{5}
+\beamer@sectionintoc {6}{$T\mathaccentV {bar}016{T}\to Wb+X$}{31}{0}{6}
+\beamer@sectionintoc {7}{Conclusions}{34}{0}{7}
